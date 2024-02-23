@@ -9,12 +9,3 @@ location: "Mumbai, India"
 ---
 
 Teaching the undergraduate introductory course in Quantum Mechanics for the summer semester. Textbook used: David J Griffiths, Introduction to Quantum Mechanics 
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
