@@ -1,5 +1,5 @@
 ---
-title: "PH 230: Electronics Lab: Digital Electronics"
+title: "PH 230: Electronics Lab: Digital Electronics, Spring 2020"
 collection: teaching
 type: "Undergraduate Lab"
 permalink: /teaching/2020-spring-teaching-3
