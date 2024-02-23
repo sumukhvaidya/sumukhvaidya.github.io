@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "PH 107: Introduction to Quantum Mechanics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Department of Physics, Indian Institute of Technology Bombay"
+date: Summer 2018
+location: "Mumbai, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching the undergraduate introductory course in Quantum Mechanics for the summer semester. Textbook used: David J Griffiths, Introduction to Quantum Mechanics 
 
 Heading 1
 ======
