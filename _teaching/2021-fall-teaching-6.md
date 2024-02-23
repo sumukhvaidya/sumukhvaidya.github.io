@@ -1,5 +1,5 @@
 ---
-title: "PHYS 172: Modern Mechanics"
+title: "PHYS 172: Modern Mechanics, Fall 2021"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2021-fall-teaching-6
