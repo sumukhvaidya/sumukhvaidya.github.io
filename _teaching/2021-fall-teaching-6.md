@@ -1,7 +1,7 @@
 ---
 title: "PHYS 172: Modern Mechanics, Fall 2021"
 collection: teaching
-type: "Undergraduate Course"
+type: "Undergraduate Lab"
 permalink: /teaching/2021-fall-teaching-6
 venue: "Department of Physics and Astronomy, Purdue University"
 date: 2021-08-20
