@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Find a PDF version of my CV <a href="http://academicpages.github.io/files/231226_SumukhVaidyaResume_Work.pdf">here</a>.
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
