@@ -13,9 +13,9 @@ Find a PDF version of my CV <a href="http://sumukhvaidya.github.io/files/231226_
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Physics, Purdue University, 2025 (expected)
+* M.Tech. in Engineering Physics (Specialization: Nanoscience), Indian Institute of Technology Bombay, 2020
+* B.Tech. in Engineering Physics, Indian Institute of Technology Bombay, 2020
 
 Work experience
 ======
