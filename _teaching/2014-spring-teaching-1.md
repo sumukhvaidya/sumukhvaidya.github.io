@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-summer-teaching-1
 venue: "Department of Physics, Indian Institute of Technology Bombay"
-date: Summer 2018
+date: 2018
 location: "Mumbai, India"
 ---
 
