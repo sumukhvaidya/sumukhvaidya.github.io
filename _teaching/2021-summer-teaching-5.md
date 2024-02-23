@@ -1,7 +1,7 @@
 ---
 title: "PHYS 172: Modern Mechanics, Summer 2021"
 collection: teaching
-type: "Undergraduate Course"
+type: "Undergraduate Lab"
 permalink: /teaching/2021-summer-teaching-5
 venue: "Department of Physics and Astronomy, Purdue University"
 date: 2021-06-01
