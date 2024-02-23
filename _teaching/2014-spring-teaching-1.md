@@ -2,7 +2,7 @@
 title: "PH 107: Introduction to Quantum Mechanics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2018-summer-teaching-1
 venue: "Department of Physics, Indian Institute of Technology Bombay"
 date: Summer 2018
 location: "Mumbai, India"
