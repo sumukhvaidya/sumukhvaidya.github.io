@@ -84,7 +84,7 @@ Work experience
 
 Publications
 ======
-  Check out my publication in the Publications tab above.
+  Check out my publications in the Publications tab above.
   
 Talks
 ======
