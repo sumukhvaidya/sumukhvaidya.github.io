@@ -38,7 +38,7 @@ Skills
   * Git
   * Latex
 
-* Nanofabrication (All in the Birck Scifres Cleanroom Facility):
+* Nanofabrication (All in the <a href="https://birck.research.purdue.edu/equipment/#nanofabrication">Birck Cleanroom Facility </a>):
   * Heidelberg Maskless Aligner for Photolithography
   * Electron beam metal evaporator for metal deposition
   * Spinner for spin-coating
@@ -47,9 +47,9 @@ Projects
 ======
 A list of things I've worked on over the years
 
-* For my Ph.D. in Physics 
+* For my Ph.D. at Purdue Physics 
   * Advisor: Prof Tongcang Li, Purdue Physics and Purdue ECE
-  * 
+ 
 * For My Master's Thesis
   * Advisor: Prof Dinesh Kabra, Dept of Physics, IIT Bombay
   * Fabricated Large-Area, carbon-based Perovskite Solar Cells via screen printing methods. Obtained chemical handling training and Usage Authorisation on wet bench and glove box apparatus
@@ -63,8 +63,8 @@ A list of things I've worked on over the years
 Work experience
 ======
 * Dec '17: Visiting Student Researcher (<a href="https://wiki.kek.jp/pages/viewpage.action?pageId=358613286">Link</a>)
-  * Noise reduction for Central Drift Chamber.
   * Advisor: Prof. Hiroyuki Noumi, RCNP, Osaka University, Japan
+  * Title: Noise reduction for Central Drift Chamber.
   * Implemented noise reduction measures in signal acquisition for cosmic ray tracking in drift chamber
   * Used c++ & Root scripts to visualise data & see channel response for detection of incoming particles
   * Characterised chamber response as function of gas flow rate & voltage to find best detection conditions
@@ -73,6 +73,7 @@ Work experience
 
 * May '17: Visiting Student Researcher (<a href="https://wiki.kek.jp/pages/viewpage.action?pageId=358613286">Link</a>)
   * Advisor: Prof. Tsutomu Mibe, g-2/EDM Collaboration, KEK, Tsukuba, Japan
+  * Title: Test of a muon beam counter
   * Received a letter of recommendation for applying to JPARC Asia Summer Student Program
   * Studied properties, output characteristics, effect of magnetic fields on Photomultiplier Tubes (PMTs)
   * Built a testing circuit testing PMTs as Muon Counters
