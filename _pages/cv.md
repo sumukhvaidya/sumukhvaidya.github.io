@@ -62,7 +62,7 @@ A list of things I've worked on over the years
   
 Work experience
 ======
-* Dec '17: Visiting Student Researcher (<a href="https://wiki.kek.jp/pages/viewpage.action?pageId=358613286"? Link</a>)
+* Dec '17: Visiting Student Researcher (<a href="https://wiki.kek.jp/pages/viewpage.action?pageId=358613286">Link</a>)
   * Noise reduction for Central Drift Chamber.
   * Advisor: Prof. Hiroyuki Noumi, RCNP, Osaka University, Japan
   * Implemented noise reduction measures in signal acquisition for cosmic ray tracking in drift chamber
@@ -71,7 +71,7 @@ Work experience
   * Calculated efficiency of the different detection channel layers in the Drift Chamber
   * Worked on c++ and Root scripts for tracking of individual particles to find real time trajectories
 
-* May '17: Visiting Student Researcher (<a href="https://wiki.kek.jp/pages/viewpage.action?pageId=358613286"> Link</a>)
+* May '17: Visiting Student Researcher (<a href="https://wiki.kek.jp/pages/viewpage.action?pageId=358613286">Link</a>)
   * Advisor: Prof. Tsutomu Mibe, g-2/EDM Collaboration, KEK, Tsukuba, Japan
   * Received a letter of recommendation for applying to JPARC Asia Summer Student Program
   * Studied properties, output characteristics, effect of magnetic fields on Photomultiplier Tubes (PMTs)
