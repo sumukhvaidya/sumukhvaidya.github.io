@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Find a PDF version of my CV <a href="http://sumukhvaidya.github.io/files/231226_SumukhVaidyaResume_Work.pdf">here</a>.
+Here's a PDF version of my <a href="http://sumukhvaidya.github.io/files/231226_SumukhVaidyaResume_Work.pdf">CV</a>.
 
 Education
 ======
-* Ph.D in Physics, Purdue University, 2025 (expected)
+* Ph.D. in Physics, Purdue University, 2025 (expected)
 * M.Tech. in Engineering Physics (Specialization: Nanoscience), Indian Institute of Technology Bombay, 2020
 * B.Tech. in Engineering Physics, Indian Institute of Technology Bombay, 2020
 
@@ -23,10 +23,11 @@ Skills
   * Laser systems
   * Confocal microscopy systems
   * Ion Implantation
-  * AFM
-  * SEM
-  * FIB
-  * High Vacuum Systems 
+  * Atomic Force Microscopy (AFM)
+  * Scanning Electron Microscopy (SEM)
+  * Focused Ion Beam (FIB) Microscopes
+  * High Vacuum Systems
+     
 * Programming
   * Machine learning in Python (with TensorFlow and Pytorch)
   * LabView and Python-based instrument automation 
@@ -37,32 +38,47 @@ Skills
   * Git
   * Latex
 
-* Nanofabrication:
+* Nanofabrication (All in the Birck Scifres Cleanroom Facility):
   * Heidelberg Maskless Aligner for Photolithography
   * Electron beam metal evaporator for metal deposition
   * Spinner for spin-coating
   
+Projects
+======
+A list of things I've worked on over the years
 
+* For my Ph.D. in Physics 
+  * Advisor: Prof Tongcang Li, Purdue Physics and Purdue ECE
+  * 
+* For My Master's Thesis
+  * Advisor: Prof Dinesh Kabra, Dept of Physics, IIT Bombay
+  * Fabricated Large-Area, carbon-based Perovskite Solar Cells via screen printing methods. Obtained chemical handling training and Usage Authorisation on wet bench and glove box apparatus
+  * Automated data acquisition for Time Delayed Collection Field Experiments using National Instruments VISA automation and control tools
+  * Built a setup to perform Fourier plane imaging microscopy on samples of organic and perovskite thin films, to determine the emitter orientation in the films, enabling engineering of better devices
+  * Simulated Fourier plane emission profiles of thin film emitters under laser excitation and successfully determined the emitter orientations in the films
+  * Simulated in MATLAB the outcoupling efficiency and delayed emission profiles of LEDs based on molecular semiconductors to improve emission characteristics of devices via interfacial engineering
+* During My Bachelor's 
+  *
   
 Work experience
 ======
-* Dec '17: Visiting Student Researcher
-  *  Noise reduction for Central Drift Chamber.
+* Dec '17: Visiting Student Researcher (<a href="https://wiki.kek.jp/pages/viewpage.action?pageId=358613286" Link</a>)
+  * Noise reduction for Central Drift Chamber.
   * Advisor: Prof. Hiroyuki Noumi, RCNP, Osaka University, Japan
   * Implemented noise reduction measures in signal acquisition for cosmic ray tracking in drift chamber
   * Used c++ & Root scripts to visualise data & see channel response for detection of incoming particles
-  * Characterised chamber response as function of gas flow rate & voltage to find best detection
- conditions
+  * Characterised chamber response as function of gas flow rate & voltage to find best detection conditions
   * Calculated efficiency of the different detection channel layers in the Drift Chamber
   * Worked on c++ and Root scripts for tracking of individual particles to find real time trajectories
 
-* May '17: Visiting Student Researcher
+* May '17: Visiting Student Researcher (<a href="https://wiki.kek.jp/pages/viewpage.action?pageId=358613286" Link</a>)
   * Advisor: Prof. Tsutomu Mibe, g-2/EDM Collaboration, KEK, Tsukuba, Japan
   * Received a letter of recommendation for applying to JPARC Asia Summer Student Program
   * Studied properties, output characteristics, effect of magnetic fields on Photomultiplier Tubes (PMTs)
   * Built a testing circuit testing PMTs as Muon Counters
   * Wrote a report detailing the experiment and findings regarding the effect of magnetic fields on PMTs
   
+
 
 
 Publications
@@ -83,7 +99,7 @@ Teaching
   
 Service and leadership
 ======
-* May '21 - Apr '22: Web Admin for the <a href="https://www.physics.purdue.edu/pgsa/"> Purdue Physics Graduate Student Association (PGSA)</a>
+* May '21 - Apr '22: Webmaster for the <a href="https://www.physics.purdue.edu/pgsa/"> Purdue Physics Graduate Student Association (PGSA)</a>
   * Maintained the PGSA website by adding details of new events and relevant information
 
 * May '19 - Apr '20: Head of the Department Academic Mentor Program, IIT Bombay
@@ -96,6 +112,6 @@ Service and leadership
   * Handpicked 12 mentors from 22 applicants as the acting DAMP head of 3 newly inducted departments
  
 * Mar '18 - Mar '19: Institute Student Mentor
-  * The Institute Student Mentorship Program provides a Senior mentor to freshmen at IIT Bombay, helping them adjust to university life
+  * The <a href="https://smp.gymkhana.iitb.ac.in/"> Institute Student Mentorship Program</a> provides a Senior mentor to freshmen at IIT Bombay, helping them adjust to university life
   * Helped guide 10 freshmen in life at IITB
   * Was selected among 80 mentors from a pool of 300+ applicants
