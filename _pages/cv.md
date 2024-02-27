@@ -62,6 +62,9 @@ A list of things I've worked on over the years
     * Adapted an already existing model and tuned it for the Poisson Noise limit
     * Tested it on a standard dataset of images and showed increasing accuracy along with decreasing loss with training
 
+
+
+
    
 * While at IIT Bombay
   * Master's Thesis related   
@@ -74,19 +77,19 @@ A list of things I've worked on over the years
     * Built the Research Group <a href="http://home.phy.iitb.ac.in/~dkabra/">website</a> using Jekyll. 
       
   * Gesture Recognition with Arduino (Course Project)
-    * Prof. Pradeep Sarin, Department of Physics, IIT Bombay
+   <!--- * Prof. Pradeep Sarin, Department of Physics, IIT Bombay --->
     * Built a 3-axis setup to recognize 6 hand gestures and control music playback with a Python backend
     * Used 3 ultrasonic sensors to take input by Arduino Uno Board, recognize 6 hand gestures & send it to python program to pause/play, previous/next, & volume up/down music playback
     * Generated data set of 540 unique hand gestures to enable high recognition accuracy of the gestures
       
   * An n-body simulation on Altera DE0-Nano FPGA (Course Project)
-    * Prof. Pradeep Sarin, Department of Physics, IIT Bombay
+    <!---* Prof. Pradeep Sarin, Department of Physics, IIT Bombay --->
     * Made a functional 8-body simulation on Altera FPGA board with output visualised on a VGA monitor
     * Incorporated inter-particle and boundary-particle collisions to observe the time evolution of the system
     * Constructed the required circuit board to interface the FPGA with VGA and enable communication
       
   * Chaos Based Random Numbers (Course Project)
-    * Prof. Amitabha Nandi, Department of Physics, IIT Bombay
+    <!---* Prof. Amitabha Nandi, Department of Physics, IIT Bombay --->
     * As part of group studied and used properties of non-linear maps and chaotic systems to generate and test for pseudo-random numbers
     * Wrote python programs to implement the random number generators, and used the Dieharder suite of tests to verify randomness in generated sets. The sequences were found to pass Dieharder tests
   
