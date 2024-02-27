@@ -77,7 +77,7 @@ A list of things I've worked on over the years
     * Built the Research Group <a href="http://home.phy.iitb.ac.in/~dkabra/">website</a> using Jekyll. 
       
   * Gesture Recognition with Arduino (Course Project)
-   <!---* Prof. Pradeep Sarin, Department of Physics, IIT Bombay --->
+    <!---* Prof. Pradeep Sarin, Department of Physics, IIT Bombay --->
     * Built a 3-axis setup to recognize 6 hand gestures and control music playback with a Python backend
     * Used 3 ultrasonic sensors to take input by Arduino Uno Board, recognize 6 hand gestures & send it to python program to pause/play, previous/next, & volume up/down music playback
     * Generated data set of 540 unique hand gestures to enable high recognition accuracy of the gestures
