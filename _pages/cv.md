@@ -38,7 +38,7 @@ Skills
   * Git
   * Latex
 
-* Nanofabrication (All in the <a href="https://birck.research.purdue.edu/equipment/#nanofabrication">Birck Cleanroom Facility </a>):
+* Nanofabrication (All in the <a href="https://birck.research.purdue.edu/equipment/#nanofabrication">Birck Cleanroom Facility</a>):
   * Heidelberg Maskless Aligner for Photolithography
   * Electron beam metal evaporator for metal deposition
   * Spinner for spin-coating
@@ -58,7 +58,7 @@ A list of things I've worked on over the years
     * Performed Comsol Multiphysics simulations for custom-designed waveguides to optimise the $S_{11}$ and $S_{12}$ parameters which were later fabricated in the cleanroom
     * Invented a way to perform simultaneous AFM and magneto scanning of samples using a Boron Nitride Nanotube on an AFM tip
 
-  * Autoencoders for Denoising of Poisson Noise Limited Biological Images (Course Project)
+  * Autoencoders for Denoising of Poisson Noise Limited Biological Images (Machine Learning Course Project)
     * Built a model for performing denoising of confocal microscope images which are acquired in the low-photon-number regime
     * Adapted an already existing model and tuned it for the Poisson Noise limit
     * Tested it on a standard dataset of images and showed increasing accuracy along with decreasing loss with training
