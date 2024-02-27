@@ -49,7 +49,7 @@ A list of things I've worked on over the years
 
 * While at Purdue
   * PhD Thesis related 
-    * Advisor: Prof Tongcang Li, Purdue Physics and Purdue ECE
+    * <!---Advisor: Prof Tongcang Li, Purdue Physics and Purdue ECE --->
  
 * While at IIT Bombay
   * Master's Thesis related   
