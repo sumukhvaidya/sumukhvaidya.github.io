@@ -57,13 +57,13 @@ A list of things I've worked on over the years
     * Shifted a significant portion of the experimental code from LabView to Python for ease of use and licensing reasons 
     * Performed Comsol Multiphysics simulations for custom-designed waveguides to optimise the $S_{11}$ and $S_{12}$ parameters which were later fabricated in the cleanroom
     * Invented a way to perform simultaneous AFM and magneto scanning of samples using a Boron Nitride Nanotube on an AFM tip
-</br>
+
   * Autoencoders for Denoising of Poisson Noise Limited Biological Images (Course Project)
     * Built a model for performing denoising of confocal microscope images which are acquired in the low-photon-number regime
     * Adapted an already existing model and tuned it for the Poisson Noise limit
     * Tested it on a standard dataset of images and showed increasing accuracy along with decreasing loss with training
 
-</br>
+
 
 
    
@@ -150,3 +150,16 @@ Service and leadership
   * The <a href="https://smp.gymkhana.iitb.ac.in/"> Institute Student Mentorship Program</a> provides a Senior mentor to freshmen at IIT Bombay, helping them adjust to university life
   * Helped guide 10 freshmen in life at IITB
   * Was selected among 80 mentors from a pool of 300+ applicants
+ 
+Academic Achievements
+======
+* 2015: All India Rank of 1053 in JEE Advanced
+  * Out of 150,000 candidates appeared
+* 2015: All India Rank of 1296 in JEE Mains
+  * Out of 1.35 million candidates appeared
+* 2014: 91.8% in 12th Board Examination
+  * Central Board of Secondary Education, New Delhi, India
+* 2014: Selected for Level II of the Indian National Chemistry Olympiad (InChO)
+  * Among the Top 1% of students appeared
+* 2014: 99.3875 Percentile in Problem Solving Assessment Examination
+  * Conducted by Central Board of Secondary Education, New Delhi
