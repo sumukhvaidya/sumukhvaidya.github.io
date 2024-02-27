@@ -49,16 +49,29 @@ A list of things I've worked on over the years
 
 * While at Purdue
   * PhD Thesis related 
-    * <!---Advisor: Prof Tongcang Li, Purdue Physics and Purdue ECE --->
- 
+    <!---* Advisor: Prof Tongcang Li, Purdue Physics and Purdue ECE --->
+    * Developed methods of sensing magnetic fields, paramagnetic ions in liquids, and performing nanoscale NMR experiments. 
+    * Built a Confocal Microscopy system and integrated it with RF electronics to perform quantum sensing experiments.
+    * Studied photoemitters in a variety of quantum materials such as Boron Nitride and Diamonds.
+    * LabView, Matlab, and Python programming to control various instruments and analyze experimental data
+    * Shifted a significant portion of the experimental code from LabView to Python for ease of use and licensing reasons 
+    * Performed Comsol Multiphysics simulations for custom designed waveguides to optimise the $S_{11}$ and $S_{12}$ parameters which were later fabricated in the cleanroom
+
+  * Autoencoders for Denoising of Poisson Noise Limited Biological Images (Course Project)
+    * Built a model for performing denoising of confocal microscope images which are acquired in the low-photon-number regime
+    * Adapted an already existing model and tuned it for the Poisson Noise limit
+    * Tested it on a standard dataset of images and showed increasing accuracy along with decreasing loss with training
+
+   
 * While at IIT Bombay
   * Master's Thesis related   
-    * Advisor: Prof Dinesh Kabra, Dept of Physics, IIT Bombay
+    <!---* Advisor: Prof Dinesh Kabra, Dept of Physics, IIT Bombay--->
     * Fabricated Large-Area, carbon-based Perovskite Solar Cells via screen printing methods. Obtained chemical handling training on a wet bench and glove box apparatus
     * Automated data acquisition for Time Delayed Collection Field Experiments using National Instruments VISA automation and control tools
     * Built a setup to perform Fourier plane imaging microscopy on samples of organic and perovskite thin films, to determine the emitter orientation in the films, enabling the engineering of better devices
     * Simulated Fourier plane emission profiles of thin film emitters under laser excitation and successfully determined the emitter orientations in the films
     * Simulated in MATLAB the outcoupling efficiency and delayed emission profiles of LEDs based on molecular semiconductors to improve emission characteristics of devices via interfacial engineering
+    * Built the Research Group <a href="http://home.phy.iitb.ac.in/~dkabra/">website</a> using Jekyll. 
       
   * Gesture Recognition with Arduino (Course Project)
     * Prof. Pradeep Sarin, Department of Physics, IIT Bombay
