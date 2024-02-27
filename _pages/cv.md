@@ -47,18 +47,35 @@ Projects
 ======
 A list of things I've worked on over the years
 
-* For my Ph.D. at Purdue Physics 
-  * Advisor: Prof Tongcang Li, Purdue Physics and Purdue ECE
+* While at Purdue
+  * PhD Thesis related 
+    * Advisor: Prof Tongcang Li, Purdue Physics and Purdue ECE
  
-* For My Master's Thesis
-  * Advisor: Prof Dinesh Kabra, Dept of Physics, IIT Bombay
-  * Fabricated Large-Area, carbon-based Perovskite Solar Cells via screen printing methods. Obtained chemical handling training and Usage Authorisation on wet bench and glove box apparatus
-  * Automated data acquisition for Time Delayed Collection Field Experiments using National Instruments VISA automation and control tools
-  * Built a setup to perform Fourier plane imaging microscopy on samples of organic and perovskite thin films, to determine the emitter orientation in the films, enabling engineering of better devices
-  * Simulated Fourier plane emission profiles of thin film emitters under laser excitation and successfully determined the emitter orientations in the films
-  * Simulated in MATLAB the outcoupling efficiency and delayed emission profiles of LEDs based on molecular semiconductors to improve emission characteristics of devices via interfacial engineering
-* During My Bachelor's 
-  *
+* While at IIT Bombay
+  * Master's Thesis related   
+    * Advisor: Prof Dinesh Kabra, Dept of Physics, IIT Bombay
+    * Fabricated Large-Area, carbon-based Perovskite Solar Cells via screen printing methods. Obtained chemical handling training on a wet bench and glove box apparatus
+    * Automated data acquisition for Time Delayed Collection Field Experiments using National Instruments VISA automation and control tools
+    * Built a setup to perform Fourier plane imaging microscopy on samples of organic and perovskite thin films, to determine the emitter orientation in the films, enabling the engineering of better devices
+    * Simulated Fourier plane emission profiles of thin film emitters under laser excitation and successfully determined the emitter orientations in the films
+    * Simulated in MATLAB the outcoupling efficiency and delayed emission profiles of LEDs based on molecular semiconductors to improve emission characteristics of devices via interfacial engineering
+      
+  * Gesture Recognition with Arduino (Course Project)
+    * Prof. Pradeep Sarin, Department of Physics, IIT Bombay
+    * Built a 3-axis setup to recognize 6 hand gestures and control music playback with a Python backend
+    * Used 3 ultrasonic sensors to take input by Arduino Uno Board, recognize 6 hand gestures & send it to python program to pause/play, previous/next, & volume up/down music playback
+    * Generated data set of 540 unique hand gestures to enable high recognition accuracy of the gestures
+      
+  * An n-body simulation on Altera DE0-Nano FPGA (Course Project)
+    * Prof. Pradeep Sarin, Department of Physics, IIT Bombay
+    * Made a functional 8-body simulation on Altera FPGA board with output visualised on a VGA monitor
+    * Incorporated inter-particle and boundary-particle collisions to observe the time evolution of the system
+    * Constructed the required circuit board to interface the FPGA with VGA and enable communication
+      
+  * Chaos Based Random Numbers (Course Project)
+    * Prof. Amitabha Nandi, Department of Physics, IIT Bombay
+    * As part of group studied and used properties of non-linear maps and chaotic systems to generate and test for pseudo-random numbers
+    * Wrote python programs to implement the random number generators, and used the Dieharder suite of tests to verify randomness in generated sets. The sequences were found to pass Dieharder tests
   
 Work experience
 ======
