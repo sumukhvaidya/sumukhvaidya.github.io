@@ -55,14 +55,15 @@ A list of things I've worked on over the years
     * Studied photoemitters in a variety of quantum materials such as Boron Nitride and Diamonds.
     * LabView, Matlab, and Python programming to control various instruments and analyze experimental data
     * Shifted a significant portion of the experimental code from LabView to Python for ease of use and licensing reasons 
-    * Performed Comsol Multiphysics simulations for custom designed waveguides to optimise the $S_{11}$ and $S_{12}$ parameters which were later fabricated in the cleanroom
-
+    * Performed Comsol Multiphysics simulations for custom-designed waveguides to optimise the $S_{11}$ and $S_{12}$ parameters which were later fabricated in the cleanroom
+    * Invented a way to perform simultaneous AFM and magneto scanning of samples using a Boron Nitride Nanotube on an AFM tip
+</br>
   * Autoencoders for Denoising of Poisson Noise Limited Biological Images (Course Project)
     * Built a model for performing denoising of confocal microscope images which are acquired in the low-photon-number regime
     * Adapted an already existing model and tuned it for the Poisson Noise limit
     * Tested it on a standard dataset of images and showed increasing accuracy along with decreasing loss with training
 
-
+</br>
 
 
    
