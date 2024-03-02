@@ -25,8 +25,7 @@ Papers:
 
 * Nakul Jain, Rishabh Saxena, **Sumukh Vaidya**, Wenchao Huang, Adam Welford, Christopher R. McNeill, and Dinesh Kabra. "Light induced quasi-Fermi level splitting in molecular semiconductor alloys." Materials Advances 3, no. 13 (2022): 5344-5349. [Link](https://pubs.rsc.org/en/content/articlehtml/2022/ma/d2ma00131d)
 
-* **Sumukh Vaidya** ."Autoencoders for Denoising of Poisson Noise Limited Biological Images" Course Project, ECE570 (Fall 2022) [Link](http://academicpages.github.io/files/2211182245Winter_ECE570_FinalReport.pdf)
-  [Download paper here](http://academicpages.github.io/files/paper3.pdf)
+* **Sumukh Vaidya** ."Autoencoders for Denoising of Poisson Noise Limited Biological Images" Course Project, ECE570 (Fall 2022) <a href="http://academicpages.github.io/files/2211182245Winter_ECE570_FinalReport.pdf">Report</a>
 
 * Gangadhar Banappanavar, **Sumukh Vaidya**, Urvashi Bothra, Lohitha R. Hegde, Kamendra P. Sharma, Richard H. Friend, and Dinesh Kabra. "Novel optoelectronic technique for direct tracking of ultrafast triplet excitons in polymeric semiconductor." Applied Physics Reviews 8, no. 3 (2021). [Link](https://pubs.aip.org/aip/apr/article-abstract/8/3/031415/124859/Novel-optoelectronic-technique-for-direct-tracking?redirectedFrom=fulltext)
  
