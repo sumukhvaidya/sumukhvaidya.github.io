@@ -25,7 +25,7 @@ Papers:
 
 * Banappanavar, Gangadhar, Sumukh Vaidya, Urvashi Bothra, Lohitha R. Hegde, Kamendra P. Sharma, Richard H. Friend, and Dinesh Kabra. "Novel optoelectronic technique for direct tracking of ultrafast triplet excitons in polymeric semiconductor." Applied Physics Reviews 8, no. 3 (2021). [Link](https://pubs.aip.org/aip/apr/article-abstract/8/3/031415/124859/Novel-optoelectronic-technique-for-direct-tracking?redirectedFrom=fulltext)
  
-
+* Vaidya, Sumukh."Autoencoders for Denoising of Poisson Noise Limited Biological Images" Course Project, ECE570 (Fall 2022) [Download paper here](http://academicpages.github.io/files/2211182245Winter_ECE570_FinalReport.pdf)
 
 <!---{% for post in site.publications reversed %}
   {% include archive-single.html %}
