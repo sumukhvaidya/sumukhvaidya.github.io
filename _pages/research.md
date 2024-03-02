@@ -20,14 +20,13 @@ We also invent a technique to reliably transfer a BNNT to an AFM tip, which turn
 
 To learn more check out the [Arxiv](https://arxiv.org/abs/2310.02709) version of this paper. 
 
-2023: 
-Papers: Quantum sensing of paramagnetic spins in liquids with spin qubits in hexagonal boron nitride
+2023: Quantum sensing of paramagnetic spins in liquids with spin qubits in hexagonal boron nitride
 ------
 <img src='/images/2023_hBN_Paramagnetic.png' width="600" height="300">
 <br>
 We show a practical application of quantum sensing for real-world applications by using spin defects in Boron Nitride to detect small concentrations of paramagnetic ions in a liquid solution. We combine a microfluid cell with optical readout of the quantum sensors to interface the paramagnetic ions with the sensor. We show we can detect as few as $10^5$ ions in a small volume inside the focus of the laser. This has potential applications for building noninvasive all-optical sensors for ions in liquid solutions.
 
-Check out the [paper](https://pubs.acs.org/doi/10.1021/acsphotonics.3c00621) for more details.
+Check out the [published paper](https://pubs.acs.org/doi/10.1021/acsphotonics.3c00621) for more details.
 
 * Vaidya, Sumukh, Xingyu Gao, Saakshi Dikshit, Igor Aharonovich, and Tongcang Li. "Quantum sensing and imaging with spin defects in hexagonal boron nitride." Advances in Physics: X 8, no. 1 (2023): 2206049. [Link](https://www.tandfonline.com/doi/full/10.1080/23746149.2023.2206049)
 
