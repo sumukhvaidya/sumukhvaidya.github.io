@@ -30,6 +30,8 @@ Papers:
 * Gangadhar Banappanavar, **Sumukh Vaidya**, Urvashi Bothra, Lohitha R. Hegde, Kamendra P. Sharma, Richard H. Friend, and Dinesh Kabra. "Novel optoelectronic technique for direct tracking of ultrafast triplet excitons in polymeric semiconductor." Applied Physics Reviews 8, no. 3 (2021). [Link](https://pubs.aip.org/aip/apr/article-abstract/8/3/031415/124859/Novel-optoelectronic-technique-for-direct-tracking?redirectedFrom=fulltext)
  
 \* Equal Contribution
+
+
 <!---{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} ---> 
