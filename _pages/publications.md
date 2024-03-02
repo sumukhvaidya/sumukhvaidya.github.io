@@ -15,7 +15,7 @@ Also find me on  <a href="https://www.linkedin.com/in/sumukhvaidya">LinkedIn</a>
 
 Papers:
 
-* Xingyu Gao, **Sumukh Vaidya** \*, Saakshi Dikshit, Peng Ju, Kunhong Shen, Yuanbin Jin, Shixiong Zhang, and Tongcang Li. "Nanotube spin defects for omnidirectional magnetic field sensing." arXiv preprint arXiv:2310.02709 (2023). [Link](https://arxiv.org/abs/2310.02709)
+* Xingyu Gao\*, **Sumukh Vaidya**\*, Saakshi Dikshit, Peng Ju, Kunhong Shen, Yuanbin Jin, Shixiong Zhang, and Tongcang Li. "Nanotube spin defects for omnidirectional magnetic field sensing." arXiv preprint arXiv:2310.02709 (2023). [Link](https://arxiv.org/abs/2310.02709)
  
 * **Sumukh Vaidya**, Xingyu Gao, Saakshi Dikshit, Igor Aharonovich, and Tongcang Li. "Quantum sensing and imaging with spin defects in hexagonal boron nitride." Advances in Physics: X 8, no. 1 (2023): 2206049. [Link](https://www.tandfonline.com/doi/full/10.1080/23746149.2023.2206049)
 
