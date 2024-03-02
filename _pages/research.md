@@ -32,6 +32,7 @@ Check out the [published paper](https://pubs.acs.org/doi/10.1021/acsphotonics.3c
 2022: Nuclear spin polarization and control in hexagonal boron nitride
 ------
 <img src='/images/2023_hBN_NucSpin.png' width="600" height="500">
+<br>
 The $V_B^-$ spin defect in hexagonal Boron Nitride is emerging as a prominent solid-state spin qubit system for quantum sensing applications. We demonstrate the polarization and control of the nitrogen nuclei surrounding the $V_B^-$ spin defect, and show that we can achieve 32% polarization under laser excitation in a magnetic field. This opens up new avenues for quantum sensing, communication and networks. 
 
 Check out the [published paper](https://www.nature.com/articles/s41563-022-01329-8) for more details.
