@@ -13,6 +13,7 @@ You can find my articles on <a href="https://scholar.google.com/citations?user=6
 2023: Nanotube Spin Defects for Omnidirectional Quantum Sensing
 ------
 <img src='/images/BNNT_Probe.png' width="600" height="400">
+<\br>
 Conventional quantum magnetometers (e.g. diamond NV, hBN $V_B^-$) have a preferential axis of maximum sensitivity, which limits their utility for sensing magnetic fields. 
 We have discovered spin defects in Boron Nitride Nanotubes with omnidirectional sensitivity. We build on this by further developing a near-surface magnetic scanning microscope. 
 We also invent a technique to reliably transfer a BNNT to an AFM tip, which turns the tip into a scanning quantum sensor. This can potentially be used to perform two-in-one magnetic map and surface profile measurements at the atomic scale. 
