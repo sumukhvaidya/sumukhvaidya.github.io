@@ -17,3 +17,9 @@ I'm currently supported by the Gordon and Betty Moore Foundation and have previo
 I graduated with a B.Tech and M.Tech in Engineering Physics from IIT Bombay in Aug '20. I worked with <a href="http://home.phy.iitb.ac.in/~dkabra/">Prof Dinesh Kabra</a> as my Master's thesis advisor, where we explored charge carrier dynamics in organic semiconductors and perovskite solar cells. 
 
 Feel free to explore the rest of my website, and do get in touch if you're interested in discussing something!
+
+Email me at:
+* sumukhvaidya [at] gmail
+* vaidya10 [at] purdue [dot] edu
+* vaidyasumukh [at] gmail
+  
