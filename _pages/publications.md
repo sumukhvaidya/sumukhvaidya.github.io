@@ -14,6 +14,6 @@ Also find me on  <a href="https://www.linkedin.com/in/sumukhvaidya">LinkedIn</a>
 <!---{% include base_path %}--->
 
 
-<!---{% for post in site.publications reversed %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %} --->
+{% endfor %} 
