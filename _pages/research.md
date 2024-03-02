@@ -39,15 +39,22 @@ Check out the [published paper](https://www.nature.com/articles/s41563-022-01329
 
 2022: Light induced quasi-Fermi level splitting in molecular semiconductor alloys
 ------
+<img src='/images/2022_Light_Induced.png' width="600" height="450">
+<br>
+We study the quasi-Fermi level splitting in a series of ternary blended solar cells. We also propose an analytical model based on the photoinduced fermion occupancy based on experimental observations. This is then generalizable to a range of excitonic molecular semiconductor-based solar cells.
 
 2022: Autoencoders for Denoising of Poisson Noise Limited Biological Images
 ------
-
+<img src='/images/2022_Autoencoder.png' width="600" height="450">
+<br>
 Variational Autoencoders (VAE) have been used to denoise images with Gaussian Noise. The noise in the images is assumed to be drawn from a Gaussian distribution. Autoencoders can reduce the dimensionality of large-sized complex data and then reconstruct it back with minimal loss. By tuning the training process and adding a Gaussian noise component the encoder-decoder system can be made into an effective denoiser. Here we present an extension of this concept for non-Gaussian noise, in this case, Poisson noise, typically generated in images where the amount of incident light per pixel is very small. Such low photon number images are generated in the imaging of biological samples under low light excitation. The physical model is captured in the weights of the autoencoder and deploying it for noise reduction yields a good method to reduce complex computation.
 
 
 2021: Novel optoelectronic technique for direct tracking of ultrafast triplet excitons in polymeric semiconductor
 ------
+<img src='/images/2021_Novel_Opto.png' width="600" height="300">
+<br>
+We study the effect of polymer chain packing on triplet diffusion in the polyfluorene-based polymeric system, which is known to give efficient organic light emitting diode (OLED) efficiency for display devices. We have developed a unique method to trace the position of the triplet exciton in the emissive layer of OLEDs by analyzing angle-resolved delayed electroluminescence emission patterns as a function of time, by fitting the observed profiles with the calculated profiles given a certain depth distribution. This study paves a path for better engineering of OLED devices by enabling a better understanding of charge carrier dynamics.
 
 * Vaidya, Sumukh, Xingyu Gao, Saakshi Dikshit, Igor Aharonovich, and Tongcang Li. "Quantum sensing and imaging with spin defects in hexagonal boron nitride." Advances in Physics: X 8, no. 1 (2023): 2206049. [Link](https://www.tandfonline.com/doi/full/10.1080/23746149.2023.2206049)
 
