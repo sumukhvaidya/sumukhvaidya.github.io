@@ -10,7 +10,12 @@ Here's a list and a bit of information about them.
 
 You can find my articles on <a href="https://scholar.google.com/citations?user=6DuGsdEAAAAJ&hl=en">Google Scholar</a>.
 
+Nanotube Spin Defects for Omnidirection Quantum Sensing
+------
+Conventional quantum magnetometers (e.g. diamond NV, hBN $V_B^-$) have a preferential axis of maximum sensitivity, which limits their utility for sensing magnetic fields. 
+We have discovered spin defects in Boron Nitride Nanotubes with omnidirectional sensitivity. We build on this by further developing a near-surface magnetic scanning microscope
 
+<img src='/images/BNNT_probe.PNG'>
 
 
 Papers:
