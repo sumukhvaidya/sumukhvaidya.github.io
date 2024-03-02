@@ -28,6 +28,15 @@ We show a practical application of quantum sensing for real-world applications b
 
 Check out the [published paper](https://pubs.acs.org/doi/10.1021/acsphotonics.3c00621) for more details.
 
+
+2022: Nuclear spin polarization and control in hexagonal boron nitride
+------
+<img src='/images/2023_hBN_NucSpin.png' width="600" height="500">
+The $V_B^-$ spin defect in hexagonal Boron Nitride is emerging as a prominent solid-state spin qubit system for quantum sensing applications. We demonstrate the polarization and control of the nitrogen nuclei surrounding the $V_B^-$ spin defect, and show that we can achieve 32% polarization under laser excitation in a magnetic field. This opens up new avenues for quantum sensing, communication and networks. 
+
+Check out the [published paper](https://www.nature.com/articles/s41563-022-01329-8) for more details.
+
+
 * Vaidya, Sumukh, Xingyu Gao, Saakshi Dikshit, Igor Aharonovich, and Tongcang Li. "Quantum sensing and imaging with spin defects in hexagonal boron nitride." Advances in Physics: X 8, no. 1 (2023): 2206049. [Link](https://www.tandfonline.com/doi/full/10.1080/23746149.2023.2206049)
 
 * Gao, Xingyu, Sumukh Vaidya, Peng Ju, Saakshi Dikshit, Kunhong Shen, Yong P. Chen, and Tongcang Li. "Quantum sensing of paramagnetic spins in liquids with spin qubits in hexagonal boron nitride." ACS Photonics 2023, 10, 8, 2894–2900. [Link](https://pubs.acs.org/doi/10.1021/acsphotonics.3c00621)
