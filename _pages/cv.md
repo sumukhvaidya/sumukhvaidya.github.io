@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here's a PDF version of my <a href="http://sumukhvaidya.github.io/files/231226_SumukhVaidyaResume_Work.pdf">CV</a>.
+Here's a PDF version of my <a href="http://sumukhvaidya.github.io/files/240302_SumukhVaidyaResume_Work.pdf">CV</a>.
 
 Education
 ======
