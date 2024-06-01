@@ -18,34 +18,7 @@ Education
 * M.Tech. in Engineering Physics (Specialization: Nanoscience), Indian Institute of Technology Bombay, 2020
 * B.Tech. in Engineering Physics, Indian Institute of Technology Bombay, 2020
 
-Skills
-======
-* Experimental Physics:
-  * Laser systems
-  * Confocal microscopy systems
-  * Ion Implantation
-  * Atomic Force Microscopy (AFM)
-  * Scanning Electron Microscopy (SEM)
-  * Focused Ion Beam (FIB) Microscopes
-  * High Vacuum Systems
-  * Low-Temperature Optical Measurements with Liquid Helium/ Nitrogen
-     
-* Programming
-  * Machine learning in Python (with TensorFlow and Pytorch)
-  * LabView and Python-based instrument automation 
-  * Optical system design with Zemax OpticStudio
-  * MATLAB
-  * COMSOL Multiphysics for physical system simulation
-  * KLayout
-  * Git
-  * Latex
-
-* Nanofabrication (All in the <a href="https://birck.research.purdue.edu/equipment/#nanofabrication">Birck Cleanroom Facility</a>):
-  * Heidelberg Maskless Aligner for Photolithography
-  * Electron beam metal evaporator for metal deposition
-  * Spinner for spin-coating
   
-
 Work experience
 ======
 * May '24- Aug '24: Display Hardware Engineering Intern. Apple Inc, Cupertino, California
@@ -70,6 +43,33 @@ Work experience
   * Built a testing circuit testing PMTs as Muon Counters
   * Wrote a report detailing the experiment and findings regarding the effect of magnetic fields on PMTs
   
+Skills
+======
+* Experimental Physics:
+  * Laser systems
+  * Confocal microscopy systems
+  * Ion Implantation
+  * Atomic Force Microscopy (AFM)
+  * Scanning Electron Microscopy (SEM)
+  * Focused Ion Beam (FIB) Microscopes
+  * High Vacuum Systems
+  * Low-Temperature Optical Measurements with Liquid Helium/ Nitrogen
+  * Display panel optics, colorimetry, radiometry, and characterization
+     
+* Programming
+  * Machine learning in Python (with TensorFlow and Pytorch)
+  * LabView and Python-based instrument automation 
+  * Optical system design with Zemax OpticStudio
+  * MATLAB
+  * COMSOL Multiphysics for physical system simulation
+  * KLayout
+  * Git
+  * Latex
+
+* Nanofabrication (All in the <a href="https://birck.research.purdue.edu/equipment/#nanofabrication">Birck Cleanroom Facility</a>):
+  * Heidelberg Maskless Aligner for Photolithography
+  * Electron beam metal evaporator for metal deposition
+  * Spinner for spin-coating
 
 Projects
 ======
