@@ -49,8 +49,8 @@ Skills
 Work experience
 ======
 * May '24- Aug '24: Display Hardware Engineering Intern. Apple Inc, Cupertino, California
-  * Working on Display optics as a Hardware Engineering Intern.
-  * Automation of spectroradiometer, color meters and other sensors to perform automated experiments and data collection.
+  * Working on Display optics as to study the thermal and lifetime characteristics of OLED display panels
+  * Automated spectroradiometers, display color sensors and other sensors to measure display characteristics.
 
 
 * Dec '17: Visiting Student Researcher, JPARC, Tokai, Japan (<a href="https://wiki.kek.jp/pages/viewpage.action?pageId=358613286">Link</a>)
