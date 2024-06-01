@@ -45,6 +45,32 @@ Skills
   * Electron beam metal evaporator for metal deposition
   * Spinner for spin-coating
   
+
+Work experience
+======
+* May '24- Aug '24: Display Hardware Engineering Intern. Apple Inc, Cupertino, California
+  * Working on Display optics as a Hardware Engineering Intern.
+  * Automation of spectroradiometer, color meters and other sensors to perform automated experiments and data collection.
+
+
+* Dec '17: Visiting Student Researcher, JPARC, Tokai, Japan (<a href="https://wiki.kek.jp/pages/viewpage.action?pageId=358613286">Link</a>)
+  * Advisor: Prof. Hiroyuki Noumi, RCNP, Osaka University, Japan
+  * Title: Noise reduction for Central Drift Chamber.
+  * Implemented noise reduction measures in signal acquisition for cosmic ray tracking in drift chamber
+  * Used c++ & Root scripts to visualise data & see channel response for detection of incoming particles
+  * Characterised chamber response as function of gas flow rate & voltage to find best detection conditions
+  * Calculated efficiency of the different detection channel layers in the Drift Chamber
+  * Worked on c++ and Root scripts for tracking of individual particles to find real time trajectories
+
+* May '17: Visiting Student Researcher, KEK, Tsukuba, Japan (<a href="https://wiki.kek.jp/pages/viewpage.action?pageId=358613286">Link</a>)
+  * Advisor: Prof. Tsutomu Mibe, g-2/EDM Collaboration, KEK, Tsukuba, Japan
+  * Title: Test of a muon beam counter
+  * Received a letter of recommendation for applying to JPARC Asia Summer Student Program
+  * Studied properties, output characteristics, effect of magnetic fields on Photomultiplier Tubes (PMTs)
+  * Built a testing circuit testing PMTs as Muon Counters
+  * Wrote a report detailing the experiment and findings regarding the effect of magnetic fields on PMTs
+  
+
 Projects
 ======
 A list of things I've worked on over the years
@@ -96,27 +122,6 @@ A list of things I've worked on over the years
     * As part of group studied and used properties of non-linear maps and chaotic systems to generate and test for pseudo-random numbers
     * Wrote python programs to implement the random number generators, and used the Dieharder suite of tests to verify randomness in generated sets. The sequences were found to pass Dieharder tests
   
-Work experience
-======
-* Dec '17: Visiting Student Researcher (<a href="https://wiki.kek.jp/pages/viewpage.action?pageId=358613286">Link</a>)
-  * Advisor: Prof. Hiroyuki Noumi, RCNP, Osaka University, Japan
-  * Title: Noise reduction for Central Drift Chamber.
-  * Implemented noise reduction measures in signal acquisition for cosmic ray tracking in drift chamber
-  * Used c++ & Root scripts to visualise data & see channel response for detection of incoming particles
-  * Characterised chamber response as function of gas flow rate & voltage to find best detection conditions
-  * Calculated efficiency of the different detection channel layers in the Drift Chamber
-  * Worked on c++ and Root scripts for tracking of individual particles to find real time trajectories
-
-* May '17: Visiting Student Researcher (<a href="https://wiki.kek.jp/pages/viewpage.action?pageId=358613286">Link</a>)
-  * Advisor: Prof. Tsutomu Mibe, g-2/EDM Collaboration, KEK, Tsukuba, Japan
-  * Title: Test of a muon beam counter
-  * Received a letter of recommendation for applying to JPARC Asia Summer Student Program
-  * Studied properties, output characteristics, effect of magnetic fields on Photomultiplier Tubes (PMTs)
-  * Built a testing circuit testing PMTs as Muon Counters
-  * Wrote a report detailing the experiment and findings regarding the effect of magnetic fields on PMTs
-  
-
-
 
 Publications
 ======
