@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Here's a PDF version of my <a href="http://sumukhvaidya.github.io/files/240306_SumukhVaidyaCV.pdf"> full CV</a>.
-If you'd like, here's a <a href="http://sumukhvaidya.github.io/files/240824_SumukhVaidyaResume_Work.pdf">resume</a> as well.
+If you'd like, here's a <a href="http://sumukhvaidya.github.io/files/240910_SumukhVaidyaResume_Work.pdf">resume</a> as well.
 
 Education
 ======
@@ -24,6 +24,7 @@ Work experience
 * May '24- Aug '24: Display Hardware Engineering Intern. Apple Inc, Cupertino, California
   * Working on Display optics as to study the thermal and lifetime characteristics of OLED display panels
   * Automated spectroradiometers, display color sensors and other sensors to measure display characteristics.
+  * Analyzed spectral data and proposed two new metrics to track to drive next-gen panel development decisions.
 
 
 * Dec '17: Visiting Student Researcher, JPARC, Tokai, Japan (<a href="https://wiki.kek.jp/pages/viewpage.action?pageId=358613286">Link</a>)
