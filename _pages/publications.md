@@ -13,7 +13,8 @@ You can find my articles on <a href="https://scholar.google.com/citations?user=6
 Also find me on  <a href="https://www.linkedin.com/in/sumukhvaidya">LinkedIn</a>.
 <!---{% include base_path %}--->
 
-Papers:
+Papers (\* indicates equal contribution):
+
 * Xingyu Gao\*, **Sumukh Vaidya**\*, Kejun Li, Saakshi Dikshit, Shimin Zhang, Peng Ju, Kunhong Shen, Yuanbin Jin, Yuan Ping, Tongcang Li. "Single nuclear spin detection and control in a van der Waals material." [arXiv](https://arxiv.org/abs/2409.01601) (2024)
 
 * Xingyu Gao\*, **Sumukh Vaidya**\*, Saakshi Dikshit, Peng Ju, Kunhong Shen, Yuanbin Jin, Shixiong Zhang, and Tongcang Li. "Nanotube spin defects for omnidirectional magnetic field sensing." Nature Communications (2024). [Link](https://www.nature.com/articles/s41467-024-51941-2)
@@ -30,7 +31,7 @@ Papers:
 
 * Gangadhar Banappanavar, **Sumukh Vaidya**, Urvashi Bothra, Lohitha R. Hegde, Kamendra P. Sharma, Richard H. Friend, and Dinesh Kabra. "Novel optoelectronic technique for direct tracking of ultrafast triplet excitons in polymeric semiconductor." Applied Physics Reviews 8, no. 3 (2021). [Link](https://pubs.aip.org/aip/apr/article-abstract/8/3/031415/124859/Novel-optoelectronic-technique-for-direct-tracking?redirectedFrom=fulltext)
  
-\* Equal Contribution
+
 
 
 <!---{% for post in site.publications reversed %}
