@@ -10,6 +10,16 @@ Here's a list and a bit of information about them.
 
 You can find my articles on <a href="https://scholar.google.com/citations?user=6DuGsdEAAAAJ&hl=en">Google Scholar</a>.
 
+2024: Single nuclear spin detection and control in a van der Waals material
+------
+<img src='/images/2024_hBN_CarbonDefectNucSpin.png' width="600" height="400">
+<br>
+We've found single electron-nuclear spin coupling in hexagonal Boron Nitride. This is the first such demonstration in a 2D material. 
+We show we can coherently control the electron-nuclear spin combo and conclusively prove the defects are carbon related. 
+Possible applications of this research would be in quantum communication and on-chip quantum sensing. 
+
+Check out the [paper](https://arxiv.org/pdf/2409.01601) on Arxiv.
+
 2024: Nanotube Spin Defects for Omnidirectional Quantum Sensing
 ------
 <img src='/images/BNNT_Probe.png' width="600" height="400">
