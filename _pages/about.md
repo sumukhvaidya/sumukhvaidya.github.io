@@ -10,7 +10,7 @@ redirect_from:
 
 Hi!
 
-I'm a fifth-year (as of May '25) PhD candidate at the Department of Physics at Purdue University. I'm working with <a href="https://sites.google.com/site/litongcang/people">Prof Tongcang Li</a> as my advisor. 
+I'm a fifth-year (as of May '25) PhD candidate at the Department of Physics at Purdue University, looking to graduate within the next year. I'm working with <a href="https://sites.google.com/site/litongcang/people">Prof Tongcang Li</a> as my advisor. 
 We explore novel physics phenomena in 2-D semiconductors such as hexagonal Boron Nitride from the perspective of quantum sensing.
 I'm currently supported by the Gordon and Betty Moore Foundation and have previously received support from DARPA and AFOSR grants. 
 
