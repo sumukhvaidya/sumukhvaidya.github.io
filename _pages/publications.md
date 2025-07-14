@@ -15,7 +15,15 @@ Also find me on  <a href="https://www.linkedin.com/in/sumukhvaidya">LinkedIn</a>
 
 Papers (\* indicates equal contribution):
 
-* Xingyu Gao\*, **Sumukh Vaidya**\*, Kejun Li, Saakshi Dikshit, Shimin Zhang, Peng Ju, Kunhong Shen, Yuanbin Jin, Yuan Ping, Tongcang Li. "Single nuclear spin detection and control in a van der Waals material." [arXiv](https://arxiv.org/abs/2409.01601) (2024)
+* Xingyu Gao\*, **Sumukh Vaidya**\*, Kejun Li, Saakshi Dikshit, Shimin Zhang, Peng Ju, Kunhong Shen, Yuanbin Jin, Yuan Ping, Tongcang Li. "Single nuclear spin detection and control in a van der Waals material." [Nature](https://www.nature.com/articles/s41586-025-09258-7) (2025)
+
+* Songtao Wu, Biswajit Sahoo, Naveed Hussain, Alejandro Ruiz, **Sumukh Vaidya**, Saakshi Dikshit, Hayate Yamano, Katsunori Danno, Chen Ling, Shougo Higashi, Tongcang Li, Debasish Banerjee. "A Power-Efficient Coplanar Waveguide Design for Enhanced Optical Readout in h-BN Quantum Sensors"[ACS Nano Letters](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c02316)
+
+* **Sumukh Vaidya**, Xingyu Gao, Saakshi Dikshit, Zhenyao Fang, Andres E
+Llacsahuanga Alcca, Yong P Chen, Qimin Yan, and Tongcang Li."Coherent Spins in van der Waals
+Semiconductor GeS2 at Ambient Conditions."[arXiv](https://arxiv.org/pdf/2507.05133)
+
+* Mohammad Abdullah Sadi, , Luca Basso, David A Fehr, Xingyu Gao, **Sumukh Vaidya**, Emmeline G Riendeau, Gajadhar Joshi, Tongcang Li, Michael E Flatté Andrew M Mounce, and Yong P Chen. "Spin-State Selective Excitation in Spin Defects of Hexagonal Boron Nitride." [arXiv](https://arxiv.org/pdf/2506.04448)
 
 * Xingyu Gao\*, **Sumukh Vaidya**\*, Saakshi Dikshit, Peng Ju, Kunhong Shen, Yuanbin Jin, Shixiong Zhang, and Tongcang Li. "Nanotube spin defects for omnidirectional magnetic field sensing." Nature Communications (2024). [Link](https://www.nature.com/articles/s41467-024-51941-2)
  
