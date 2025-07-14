@@ -20,7 +20,7 @@ Papers (\* indicates equal contribution):
 * Songtao Wu, Biswajit Sahoo, Naveed Hussain, Alejandro Ruiz, **Sumukh Vaidya**, Saakshi Dikshit, Hayate Yamano, Katsunori Danno, Chen Ling, Shougo Higashi, Tongcang Li, Debasish Banerjee. "A Power-Efficient Coplanar Waveguide Design for Enhanced Optical Readout in h-BN Quantum Sensors"[ACS Nano Letters](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c02316)(2025)
 
 * **Sumukh Vaidya**, Xingyu Gao, Saakshi Dikshit, Zhenyao Fang, Andres E
-Llacsahuanga Alcca, Yong P Chen, Qimin Yan, and Tongcang Li."Coherent Spins in van der Waals
+Llacsahuanga Alcca, Yong P Chen, Qimin Yan, and Tongcang Li. "Coherent Spins in van der Waals
 Semiconductor GeS2 at Ambient Conditions."[arXiv](https://arxiv.org/pdf/2507.05133)(2025)
 
 * Mohammad Abdullah Sadi, , Luca Basso, David A Fehr, Xingyu Gao, **Sumukh Vaidya**, Emmeline G Riendeau, Gajadhar Joshi, Tongcang Li, Michael E Flatté Andrew M Mounce, and Yong P Chen. "Spin-State Selective Excitation in Spin Defects of Hexagonal Boron Nitride." [arXiv](https://arxiv.org/pdf/2506.04448)(2025)
