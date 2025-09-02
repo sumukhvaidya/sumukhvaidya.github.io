@@ -21,7 +21,7 @@ Papers (\* indicates equal contribution):
 
 * **Sumukh Vaidya**, Xingyu Gao, Saakshi Dikshit, Zhenyao Fang, Andres E
 Llacsahuanga Alcca, Yong P Chen, Qimin Yan, and Tongcang Li. "Coherent Spins in van der Waals
-Semiconductor GeS2 at Ambient Conditions."[ arXiv](https://arxiv.org/pdf/2507.05133)(2025)
+Semiconductor GeS2 at Ambient Conditions."[ arXiv](https://arxiv.org/pdf/2507.05133)(accepted in ACS Nano Letters)(2025)
 
 * Mohammad Abdullah Sadi, , Luca Basso, David A Fehr, Xingyu Gao, **Sumukh Vaidya**, Emmeline G Riendeau, Gajadhar Joshi, Tongcang Li, Michael E Flatté Andrew M Mounce, and Yong P Chen. "Spin-State Selective Excitation in Spin Defects of Hexagonal Boron Nitride." [ ACS Nano Letters](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c03056)(2025)
 
