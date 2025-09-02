@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here's a PDF version of my <a href="http://sumukhvaidya.github.io/files/250828_SumukhVaidyaCV.pdf"> full CV</a>.
+Here's a PDF version of my <a href="http://sumukhvaidya.github.io/files/250902_SumukhVaidyaCV.pdf"> full CV</a>.
 If you'd like, here's a <a href="http://sumukhvaidya.github.io/files/250827_SumukhVaidyaResume.pdf">resume</a> as well.
 
 Education
