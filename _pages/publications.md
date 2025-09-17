@@ -21,7 +21,7 @@ Papers (\* indicates equal contribution):
 Llacsahuanga Alcca, Yong P Chen, Qimin Yan, and Tongcang Li. "Coherent Spins in van der Waals
 Semiconductor GeS2 at Ambient Conditions."[ Nano Letters](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c03567) (2025)
 
-* Souvik Biswas, Giovanni Scuri, Noah Huffman, Eric I. Rosenthal, 3 Ruotian Gong, Thomas Poirier, Xingyu Gao, **Sumukh Vaidya**, Abigail J. Stein, Tsachy Weissman, James H. Edgar, Tongcang Li, Chong Zu, Jelena Vuckovic, and Joonhee Choi. "Quantum sensing with a spin ensemble in a two-dimensional material." [ Arxiv](https://arxiv.org/pdf/2509.08984)
+* Souvik Biswas, Giovanni Scuri, Noah Huffman, Eric I. Rosenthal, 3 Ruotian Gong, Thomas Poirier, Xingyu Gao, **Sumukh Vaidya**, Abigail J. Stein, Tsachy Weissman, James H. Edgar, Tongcang Li, Chong Zu, Jelena Vuckovic, and Joonhee Choi. "Quantum sensing with a spin ensemble in a two-dimensional material." [ Arxiv](https://arxiv.org/pdf/2509.08984) (2025)
 
 * Songtao Wu, Biswajit Sahoo, Naveed Hussain, Alejandro Ruiz, **Sumukh Vaidya**, Saakshi Dikshit, Hayate Yamano, Katsunori Danno, Chen Ling, Shougo Higashi, Tongcang Li, Debasish Banerjee. "A Power-Efficient Coplanar Waveguide Design for Enhanced Optical Readout in h-BN Quantum Sensors"[ ACS Nano Letters](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c02316) (2025)
 
