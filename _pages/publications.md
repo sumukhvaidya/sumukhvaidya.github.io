@@ -19,7 +19,7 @@ Papers (\* indicates equal contribution):
 
 * **Sumukh Vaidya**, Xingyu Gao, Saakshi Dikshit, Zhenyao Fang, Andres E
 Llacsahuanga Alcca, Yong P Chen, Qimin Yan, and Tongcang Li. "Coherent Spins in van der Waals
-Semiconductor GeS2 at Ambient Conditions."[ Nano Letters](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c03567) (2025)
+Semiconductor GeS2 at Ambient Conditions."[ ACS Nano Letters](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c03567) (2025)
 
 * Souvik Biswas, Giovanni Scuri, Noah Huffman, Eric I. Rosenthal, 3 Ruotian Gong, Thomas Poirier, Xingyu Gao, **Sumukh Vaidya**, Abigail J. Stein, Tsachy Weissman, James H. Edgar, Tongcang Li, Chong Zu, Jelena Vuckovic, and Joonhee Choi. "Quantum sensing with a spin ensemble in a two-dimensional material." [ Arxiv](https://arxiv.org/pdf/2509.08984) (2025)
 
