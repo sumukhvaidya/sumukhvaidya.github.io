@@ -10,22 +10,26 @@ redirect_from:
 {% include base_path %}
 
 Here's a PDF version of my <a href="http://sumukhvaidya.github.io/files/250902_SumukhVaidyaCV.pdf"> full CV</a>.
-If you'd like, here's a <a href="http://sumukhvaidya.github.io/files/250827_SumukhVaidyaResume.pdf">resume</a> as well.
+If you'd like, here's a <a href="http://sumukhvaidya.github.io/files/260117_SumukhVaidyaResume.pdf">resume</a> as well.
 
 Education
 ======
-* Ph.D. in Physics, Purdue University, 2025 (expected)
+* Ph.D. in Physics, Purdue University, 2026 (expected)
 * M.Tech. in Engineering Physics (Specialization: Nanoscience), Indian Institute of Technology Bombay, 2020
 * B.Tech. in Engineering Physics, Indian Institute of Technology Bombay, 2020
 
   
 Work experience
 ======
-* May '24- Aug '24: Display Hardware Engineering Intern. Apple Inc, Cupertino, California
-  * Working on Display optics as to study the thermal and lifetime characteristics of OLED display panels
-  * Automated spectroradiometers, display color sensors and other sensors to measure display characteristics.
-  * Analyzed spectral data and proposed two new metrics to track to drive next-gen panel development decisions.
+* Jan '26- Current: Photonics Test Engineering Intern. Applied Materials, Santa Clara, California
+  * Performed statistical evaluation of photonics devices to support upcoming device development.
+  * Used Python, Numpy and OpenCV for device characterization and evaluation of inter-device variations.
+  * Sped up device measurement using Python, PyVISA and PySerial, improving measurement speeds by 2x.
 
+* May '24- Aug '24: Display Hardware Engineering Intern. Apple Inc, Cupertino, California
+  * Conducted quantitative analysis of display luminance and color as part of Panel Process and Optics team.
+  * Analyzed spectral data using Python, Pandas, Numpy and proposed new metrics to track panel defects.
+  * Automated data collection and analysis workflows using Python for photometric and colorimetric characterization, integrating hardware interfaces for real-time measurement, reducing test time by ~50%.
 
 * Dec '17: Visiting Student Researcher, JPARC, Tokai, Japan (<a href="https://wiki.kek.jp/pages/viewpage.action?pageId=358613286">Link</a>)
   * Advisor: Prof. Hiroyuki Noumi, RCNP, Osaka University, Japan
@@ -58,6 +62,7 @@ Skills
   * Display panel optics, colorimetry, radiometry, and characterization
      
 * Programming
+  * Use of AI Tools like Claude Code and OpenAI Codex
   * Machine learning in Python (with TensorFlow and Pytorch)
   * LabView and Python-based instrument automation 
   * Optical system design with Zemax OpticStudio

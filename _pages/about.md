@@ -10,9 +10,9 @@ redirect_from:
 
 Hi!
 
-I'm a fifth-year (as of Sep '25) PhD candidate at the Department of Physics at Purdue University, looking to graduate within the next year. 
+I'm a fifth-year (as of Jan '26) PhD candidate at the Department of Physics at Purdue University, looking to graduate within the next year. 
 
-I'm currently looking for a job! I'm open to roles in optical engineering, optical sensors, display engineering, research scientist and so on. If you'd like to talk about any such opportunities, please reach out!
+I'm currently interning at Applied Materials as an Intern in Photonics Test Engineering. I'm also looking for full times roles! I'm open to roles in optical engineering, optical sensors, display engineering, research scientist and so on. If you'd like to talk about any such opportunities, please reach out!
 
 I'm working with <a href="https://sites.google.com/site/litongcang/people">Prof Tongcang Li</a> as my advisor. We explore novel physics phenomena in 2-D semiconductors such as hexagonal Boron Nitride from the perspective of quantum sensing.
 I'm currently supported by the Gordon and Betty Moore Foundation and have previously received support from DARPA and AFOSR grants. 
