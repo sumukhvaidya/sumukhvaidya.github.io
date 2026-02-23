@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Here's a PDF version of my <a href="http://sumukhvaidya.github.io/files/250902_SumukhVaidyaCV.pdf"> full CV</a>.
-If you'd like, here's a <a href="http://sumukhvaidya.github.io/files/260117_SumukhVaidyaResume.pdf">resume</a> as well.
+If you'd like, here's a <a href="http://sumukhvaidya.github.io/files/260222_SumukhVaidyaResume.pdf">resume</a> as well.
 You can scan this QR code to look at my resume as well!
 
 <img src="http://sumukhvaidya.github.io/files/260117_SumukhVaidyaResumeLink.png" alt="Resume QR code" style="width: 200px;" />
