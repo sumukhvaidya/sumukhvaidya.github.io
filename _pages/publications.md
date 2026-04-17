@@ -27,6 +27,8 @@ Semiconductor GeS2 at Ambient Conditions."[ ACS Nano Letters](https://pubs.acs.o
 
 * Mohammad Abdullah Sadi, , Luca Basso, David A Fehr, Xingyu Gao, **Sumukh Vaidya**, Emmeline G Riendeau, Gajadhar Joshi, Tongcang Li, Michael E Flatté Andrew M Mounce, and Yong P Chen. "Spin-State Selective Excitation in Spin Defects of Hexagonal Boron Nitride." [ ACS Nano Letters](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c03056) (2025)
 
+* Xingyu Gao, Zhun Ge, Saakshi Dikshit, **Sumukh Vaidya**, Peng Ju, Tongcang Li. "Room-temperature quantum entanglement in a van der Waals material." [arXiv:2509.23170] (https://arxiv.org/abs/2509.23170) (2025)
+
 * Xingyu Gao\*, **Sumukh Vaidya**\*, Saakshi Dikshit, Peng Ju, Kunhong Shen, Yuanbin Jin, Shixiong Zhang, and Tongcang Li. "Nanotube spin defects for omnidirectional magnetic field sensing." [ Nature Communications](https://www.nature.com/articles/s41467-024-51941-2) (2024)
  
 * **Sumukh Vaidya**, Xingyu Gao, Saakshi Dikshit, Igor Aharonovich, and Tongcang Li. "Quantum sensing and imaging with spin defects in hexagonal boron nitride." [ Advances in Physics: X](https://www.tandfonline.com/doi/full/10.1080/23746149.2023.2206049) (2023)
