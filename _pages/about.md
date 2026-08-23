@@ -10,12 +10,56 @@ redirect_from:
 
 Hi!
 
-I'm a fifth-year (as of April '26) PhD candidate at the Department of Physics at Purdue University, looking to graduate within the next year. 
+<div class="logo-transition">
+  <img src="/images/purdue-logo.png" alt="Purdue University" class="logo-transition__logo">
+  <div class="logo-transition__track">
+    <span class="logo-transition__arrow">&#10142;</span>
+  </div>
+  <img src="/images/ayarlabs-logo.png" alt="Ayar Labs" class="logo-transition__logo">
+</div>
 
-I'm also looking for full times roles! I'm open to roles in optical engineering, optical sensors, display engineering, research scientist and so on. If you'd like to talk about any such opportunities, please reach out!
+<style>
+.logo-transition {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+.logo-transition__logo {
+  max-height: 60px;
+  width: auto;
+}
+.logo-transition__track {
+  position: relative;
+  flex: 1;
+  max-width: 200px;
+  height: 1.5rem;
+  overflow: hidden;
+}
+.logo-transition__arrow {
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.5rem;
+  line-height: 1;
+  animation: logo-transition-move 2.2s ease-in-out infinite;
+}
+@keyframes logo-transition-move {
+  0% { left: 0; opacity: 0; }
+  15% { opacity: 1; }
+  85% { opacity: 1; }
+  100% { left: calc(100% - 1.5rem); opacity: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .logo-transition__arrow { animation: none; left: calc(50% - 0.75rem); opacity: 1; }
+}
+</style>
 
-I'm working with <a href="https://sites.google.com/site/litongcang/people">Prof Tongcang Li</a> as my advisor. We explore novel physics phenomena in 2-D semiconductors such as hexagonal Boron Nitride from the perspective of quantum sensing.
-I'm currently supported by the Gordon and Betty Moore Foundation and have previously received support from DARPA and AFOSR grants. 
+I graduated with a PhD from the Department of Physics at Purdue University in June 2026. I'm now working full time at Ayar Labs.
+
+I worked with <a href="https://sites.google.com/site/litongcang/people">Prof Tongcang Li</a> as my advisor. We explored novel physics phenomena in 2-D semiconductors such as hexagonal Boron Nitride from the perspective of quantum sensing.
+I was supported by the Gordon and Betty Moore Foundation and have previously received support from DARPA and AFOSR grants. 
 
 I have interned at Applied Materials as an Intern in Photonics Test Engineering during spring 2026. 
 
@@ -27,6 +71,5 @@ Feel free to explore the rest of my website, and do get in touch if you're inter
 
 Email me at:
 * sumukhvaidya [at] gmail
-* vaidya10 [at] purdue [dot] edu
 * vaidyasumukh [at] gmail
   
