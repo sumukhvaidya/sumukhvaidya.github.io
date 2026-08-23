@@ -11,7 +11,7 @@ redirect_from:
 Hi!
 
 <div class="logo-transition">
-  <img src="/images/purdue-logo.png" alt="Purdue University" class="logo-transition__logo">
+  <img src="/images/purdue-logo.png" alt="Purdue University" class="logo-transition__logo logo-transition__logo--purdue">
   <div class="logo-transition__track">
     <span class="logo-transition__arrow">&#10142;</span>
   </div>
@@ -29,6 +29,9 @@ Hi!
 .logo-transition__logo {
   max-height: 60px;
   width: auto;
+}
+.logo-transition__logo--purdue {
+  max-height: 90px;
 }
 .logo-transition__track {
   position: relative;
