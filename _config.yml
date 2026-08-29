@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sumukh Vaidya"
 title_separator          : "-"
 name                     : &name "Sumukh Vaidya"
-description              : &description "Physics Ph.D. Candidate, Purdue University "
+description              : &description "Physics Ph.D., Purdue University "
 url                      : https://sumukhvaidya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sumukhvaidya.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sumukh Vaidya"
   avatar           : "profile4.jpg"
-  bio              : "Physics PhD Candidate, Purdue University"
+  bio              : "Physics PhD, Purdue University"
   location         : "West Lafayette, Indiana"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

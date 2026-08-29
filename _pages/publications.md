@@ -15,27 +15,27 @@ Also find me on  <a href="https://www.linkedin.com/in/sumukhvaidya">LinkedIn</a>
 
 Papers (\* indicates equal contribution):
 
-* Xingyu Gao\*, **Sumukh Vaidya**\*, Kejun Li, Saakshi Dikshit, Shimin Zhang, Peng Ju, Kunhong Shen, Yuanbin Jin, Yuan Ping, Tongcang Li. "Single nuclear spin detection and control in a van der Waals material." [ Nature](https://www.nature.com/articles/s41586-025-09258-7) (2025)
+* Xingyu Gao\*, **Sumukh Vaidya**\*, Kejun Li, Saakshi Dikshit, Shimin Zhang, Peng Ju, Kunhong Shen, Yuanbin Jin, Yuan Ping, Tongcang Li. "Single nuclear spin detection and control in a van der Waals material." [ Nature](https://www.nature.com/articles/s41586-025-09258-7) (2025) [[PDF]](/files/papers/2025_Nature_SingleNucSpin.pdf)
 
 * **Sumukh Vaidya**, Xingyu Gao, Saakshi Dikshit, Zhenyao Fang, Andres E
 Llacsahuanga Alcca, Yong P Chen, Qimin Yan, and Tongcang Li. "Coherent Spins in van der Waals
-Semiconductor GeS2 at Ambient Conditions."[ ACS Nano Letters](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c03567) (2025)
+Semiconductor GeS2 at Ambient Conditions."[ ACS Nano Letters](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c03567) (2025) [[PDF]](/files/papers/2025_NanoLetters_CoherentSpinsGeS2.pdf)
 
-* Souvik Biswas, Giovanni Scuri, Noah Huffman, Eric I. Rosenthal, 3 Ruotian Gong, Thomas Poirier, Xingyu Gao, **Sumukh Vaidya**, Abigail J. Stein, Tsachy Weissman, James H. Edgar, Tongcang Li, Chong Zu, Jelena Vuckovic, and Joonhee Choi. "Quantum sensing with a spin ensemble in a two-dimensional material." [ Arxiv](https://arxiv.org/pdf/2509.08984) (2025)
+* Souvik Biswas, Giovanni Scuri, Noah Huffman, Eric I. Rosenthal, 3 Ruotian Gong, Thomas Poirier, Xingyu Gao, **Sumukh Vaidya**, Abigail J. Stein, Tsachy Weissman, James H. Edgar, Tongcang Li, Chong Zu, Jelena Vuckovic, and Joonhee Choi. "Quantum sensing with a spin ensemble in a two-dimensional material." [ Arxiv](https://arxiv.org/pdf/2509.08984) (2025) [[PDF]](/files/papers/2025_Arxiv_QuantumSensingSpinEnsemble.pdf)
 
-* Songtao Wu, Biswajit Sahoo, Naveed Hussain, Alejandro Ruiz, **Sumukh Vaidya**, Saakshi Dikshit, Hayate Yamano, Katsunori Danno, Chen Ling, Shougo Higashi, Tongcang Li, Debasish Banerjee. "A Power-Efficient Coplanar Waveguide Design for Enhanced Optical Readout in h-BN Quantum Sensors"[ ACS Nano Letters](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c02316) (2025)
+* Songtao Wu, Biswajit Sahoo, Naveed Hussain, Alejandro Ruiz, **Sumukh Vaidya**, Saakshi Dikshit, Hayate Yamano, Katsunori Danno, Chen Ling, Shougo Higashi, Tongcang Li, Debasish Banerjee. "A Power-Efficient Coplanar Waveguide Design for Enhanced Optical Readout in h-BN Quantum Sensors"[ ACS Nano Letters](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c02316) (2025) [[PDF]](/files/papers/2025_NanoLetters_PowerEfficientCoplanarWaveguide.pdf)
 
-* Mohammad Abdullah Sadi, , Luca Basso, David A Fehr, Xingyu Gao, **Sumukh Vaidya**, Emmeline G Riendeau, Gajadhar Joshi, Tongcang Li, Michael E Flatté Andrew M Mounce, and Yong P Chen. "Spin-State Selective Excitation in Spin Defects of Hexagonal Boron Nitride." [ ACS Nano Letters](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c03056) (2025)
+* Mohammad Abdullah Sadi, , Luca Basso, David A Fehr, Xingyu Gao, **Sumukh Vaidya**, Emmeline G Riendeau, Gajadhar Joshi, Tongcang Li, Michael E Flatté Andrew M Mounce, and Yong P Chen. "Spin-State Selective Excitation in Spin Defects of Hexagonal Boron Nitride." [ ACS Nano Letters](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c03056) (2025) [[PDF]](/files/papers/2025_NanoLetters_SpinStateSelectiveExcitation.pdf)
 
-* Xingyu Gao, Zhun Ge, Saakshi Dikshit, **Sumukh Vaidya**, Peng Ju, Tongcang Li. "Room-temperature quantum entanglement in a van der Waals material." [arXiv:2509.23170] (https://arxiv.org/abs/2509.23170) (2025)
+* Xingyu Gao, Zhun Ge, Saakshi Dikshit, **Sumukh Vaidya**, Peng Ju, Tongcang Li. "Room-temperature quantum entanglement in a van der Waals material." [arXiv:2509.23170] (https://arxiv.org/abs/2509.23170) (2025) [[PDF]](/files/papers/2025_Arxiv_RoomTemperatureQuantumEntanglement.pdf)
 
-* Xingyu Gao\*, **Sumukh Vaidya**\*, Saakshi Dikshit, Peng Ju, Kunhong Shen, Yuanbin Jin, Shixiong Zhang, and Tongcang Li. "Nanotube spin defects for omnidirectional magnetic field sensing." [ Nature Communications](https://www.nature.com/articles/s41467-024-51941-2) (2024)
+* Xingyu Gao\*, **Sumukh Vaidya**\*, Saakshi Dikshit, Peng Ju, Kunhong Shen, Yuanbin Jin, Shixiong Zhang, and Tongcang Li. "Nanotube spin defects for omnidirectional magnetic field sensing." [ Nature Communications](https://www.nature.com/articles/s41467-024-51941-2) (2024) [[PDF]](/files/papers/2024_NatureComms_NanotubeSpinDefects.pdf)
  
-* **Sumukh Vaidya**, Xingyu Gao, Saakshi Dikshit, Igor Aharonovich, and Tongcang Li. "Quantum sensing and imaging with spin defects in hexagonal boron nitride." [ Advances in Physics: X](https://www.tandfonline.com/doi/full/10.1080/23746149.2023.2206049) (2023)
+* **Sumukh Vaidya**, Xingyu Gao, Saakshi Dikshit, Igor Aharonovich, and Tongcang Li. "Quantum sensing and imaging with spin defects in hexagonal boron nitride." [ Advances in Physics: X](https://www.tandfonline.com/doi/full/10.1080/23746149.2023.2206049) (2023) [[PDF]](/files/papers/2023_AdvPhysX_QuantumSensingAndImagingWithHBN.pdf)
 
-* Xingyu Gao, **Sumukh Vaidya**, Peng Ju, Saakshi Dikshit, Kunhong Shen, Yong P. Chen, and Tongcang Li. "Quantum sensing of paramagnetic spins in liquids with spin qubits in hexagonal boron nitride." [ ACS Photonics](https://pubs.acs.org/doi/10.1021/acsphotonics.3c00621) (2023)
+* Xingyu Gao, **Sumukh Vaidya**, Peng Ju, Saakshi Dikshit, Kunhong Shen, Yong P. Chen, and Tongcang Li. "Quantum sensing of paramagnetic spins in liquids with spin qubits in hexagonal boron nitride." [ ACS Photonics](https://pubs.acs.org/doi/10.1021/acsphotonics.3c00621) (2023) [[PDF]](/files/papers/2023_ACSPhotonics_ParamegneticIonsQuantumSensing.pdf)
 
-* Xingyu Gao, **Sumukh Vaidya**, Kejun Li, Peng Ju, Boyang Jiang, Zhujing Xu, Andres E. Llacsahuanga Allcca et al. "Nuclear spin polarization and control in hexagonal boron nitride." [ Nature Materials](https://www.nature.com/articles/s41563-022-01329-8) (2022)
+* Xingyu Gao, **Sumukh Vaidya**, Kejun Li, Peng Ju, Boyang Jiang, Zhujing Xu, Andres E. Llacsahuanga Allcca et al. "Nuclear spin polarization and control in hexagonal boron nitride." [ Nature Materials](https://www.nature.com/articles/s41563-022-01329-8) (2022) [[PDF]](/files/papers/2022_NatureMaterials_NucSpinPolAndControl.pdf)
 
 * Nakul Jain, Rishabh Saxena, **Sumukh Vaidya**, Wenchao Huang, Adam Welford, Christopher R. McNeill, and Dinesh Kabra. "Light induced quasi-Fermi level splitting in molecular semiconductor alloys." [ Materials Advances](https://pubs.rsc.org/en/content/articlehtml/2022/ma/d2ma00131d) (2022)
 
