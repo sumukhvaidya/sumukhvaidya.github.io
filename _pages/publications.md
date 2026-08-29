@@ -15,6 +15,10 @@ Also find me on  <a href="https://www.linkedin.com/in/sumukhvaidya">LinkedIn</a>
 
 Papers (\* indicates equal contribution):
 
+* Saakshi Dikshit, **Sumukh Vaidya**, Troy Tsubota, Xingyu Gao, Peng Ju, Zhiyan Xie, Kunhong Shen, Naveed Hussain, Shougo Higashi, Debasish Banerjee, Songtao Wu, and Tongcang Li. "Quantum Sensing of Opaque Materials with Plasmonically Enhanced Hexagonal Boron Nitride Spin Defects." [ ACS Nano Letters](https://pubs.acs.org/doi/10.1021/acs.nanolett.6c00108) (2026) [[PDF]](/files/papers/2026_NanoLetters_quantum-sensing-of-opaque-materials.pdf)
+
+* Naveed Hussain, **Sumukh Vaidya**, Saakshi Dikshit, Shahriar Esmaeili, Paul Schmalenberg, Hayate Yamano, Katsunori Danno, Biswajit Sahoo, Shougo Higashi, Ercan M. Dede, Tongcang Li, Debasish Banerjee, Songtao Wu. "Coupling Nanostructured Plasmon-Strain Microwave Waveguide to Spin Defects in Hexagonal Boron Nitride for High-Sensitivity Quantum Sensors." [ Advanced Materials](https://doi.org/10.1002/adma.202516761) (2026) [[PDF]](/files/papers/2026_Advanced%20Materials_CouplingNanostructuredPlasmonStrainMicrowaveWaveguide.pdf)
+
 * Xingyu Gao\*, **Sumukh Vaidya**\*, Kejun Li, Saakshi Dikshit, Shimin Zhang, Peng Ju, Kunhong Shen, Yuanbin Jin, Yuan Ping, Tongcang Li. "Single nuclear spin detection and control in a van der Waals material." [ Nature](https://www.nature.com/articles/s41586-025-09258-7) (2025) [[PDF]](/files/papers/2025_Nature_SingleNucSpin.pdf)
 
 * **Sumukh Vaidya**, Xingyu Gao, Saakshi Dikshit, Zhenyao Fang, Andres E
